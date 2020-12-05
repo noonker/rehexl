@@ -1,0 +1,9 @@
+#+TITLE: ReHexl
+
+* Overview
+Extending Emac's Hexl Mode for Reverse Engineers.
+
+* Inspiration
+- https://www.sweetscape.com/010editor/
+- https://github.com/WerWolv/ImHex
+- https://github.com/solemnwarning/rehex
